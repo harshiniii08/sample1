@@ -7,6 +7,7 @@ public class One_to_Hundred_PrimeNumbers {
             }
         }
     }
+    
 
     private static boolean isPrime(int num) {
         if (num <= 1) return false;
